@@ -7,7 +7,7 @@ public class ParaBankLocators {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//commnit code
 	System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\src\\test\\resources\\drivers\\chromedriver.exe");
 	
 	WebDriver driver = new ChromeDriver();
